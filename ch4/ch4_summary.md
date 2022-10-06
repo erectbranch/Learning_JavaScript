@@ -33,3 +33,22 @@
 * 숫자 비교: funds > 0, funds < 100
 * 일치 비교: totalBet === 7
 * 논리 연산자: funds > 0 && funds > 100
+
+
+---
+
+
+### while 루프
+
+```JavaScript
+let funds = 50;    // 시작 조건
+
+while(funds > 1 && funds < 100) {
+    // 돈을 건다
+
+    // 주사위를 굴린다.
+
+    // 맞췄다면 돈을 가져온다.
+}
+
+```
